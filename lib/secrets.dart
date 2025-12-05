@@ -1,0 +1,1 @@
+const openWeatherApiKey = 'YOUR_API_KEY_HERE_From->https://openweathermap.org';
